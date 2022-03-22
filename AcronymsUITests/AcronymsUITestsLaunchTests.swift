@@ -1,13 +1,13 @@
 //
-//  AssessmentUITestsLaunchTests.swift
-//  AssessmentUITests
+//  AcronymsUITestsLaunchTests.swift
+//  AcronymsUITests
 //
-//  Created by Mohammad Basharat on 3/15/22.
+//  Created by Mohammad on 22/03/22.
 //
 
 import XCTest
 
-class AssessmentUITestsLaunchTests: XCTestCase {
+class AcronymsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

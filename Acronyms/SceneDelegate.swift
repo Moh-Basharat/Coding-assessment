@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Assessment
+//  Acronyms
 //
-//  Created by Mohammad Basharat on 3/15/22.
+//  Created by Mohammad on 22/03/22.
 //
 
 import UIKit
